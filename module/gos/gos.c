@@ -1,3 +1,4 @@
+/*test*/
 #define GOS_SOURCE
 #include "gos.h"
 
